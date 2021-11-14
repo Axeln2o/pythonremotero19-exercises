@@ -2,3 +2,4 @@
 /venv/
 **/virtualENV
 **/__pycache__
+**/.idea
